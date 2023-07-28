@@ -1,0 +1,180 @@
+
+
+
+
+.dropbox-logo {
+    padding: 0px 20px 20px;
+}
+
+
+.section-main {
+    background: #1e1919;
+}
+
+.btn-text {
+    color:  #1e1919; 
+}
+
+
+.section-products {
+    background: #f7f5f2;
+}
+
+
+
+.products-heading {
+    font-family: 'Lugrasimo', cursive;
+    font-family: 'Lumanosimo', cursive;
+    font-family: 'Montserrat', sans-serif;
+    color:  #1e1919; 
+}
+
+
+
+
+.icon-heading {
+    color:  #1e1919; 
+    font-weight: 500;
+}
+
+.icon-link {
+    color:  #1e1919; 
+    font-weight: 500;
+}
+
+.icon-link:hover {
+    font-weight: 700;
+    text-decoration: underline #1e1919;
+}
+
+
+.section-cloud-storage {
+    background: #1e1919;
+    color:  #f7f5f2;
+}
+
+.btn-action {
+    color:  #1e1919; 
+}
+
+.section-help {
+    background: #f7f5f2;
+    color:  #1e1919;
+}
+
+.round-1 {
+    padding-top: 50px;
+    background: #ffafa5;
+    height: 857px;
+}
+
+.row-help .collapsible-col, .special-option-col {
+    padding: 0 !important;
+}
+
+
+.section-connecting {
+    background: #f7f5f2;
+    font-family: 'Lugrasimo', cursive;
+    font-family: 'Lumanosimo', cursive;
+    font-family: 'Montserrat', sans-serif;
+    color:  #1e1919; 
+}
+
+.connecting-link {
+    color:  #1e1919;
+    text-decoration: underline;
+}
+
+.section-trusted {
+    background: #1e1919;
+    color:  #f7f5f2;
+    font-family: 'Lugrasimo', cursive;
+    font-family: 'Lumanosimo', cursive;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.trusted-link {
+    color:  #f7f5f2;
+    text-decoration: underline;
+}
+
+.slider-trusted {
+    background: #1e1919 !important; 
+}
+
+
+.footer-content {
+    color:  #f7f5f2;
+}
+
+.footer-link {
+    color:  #f7f5f2;
+}
+
+.footer-link:hover {
+    text-decoration: underline;
+}
+
+.collapsible-header {
+    padding: 32px 0 32px 50px;
+}
+
+
+.slides-image-one {
+    background: url('https://fjord.dropboxstatic.com/warp/conversion/dropbox/dmep/en-us/assets/articles/customer-success-stories/creativity-explored/1-ce-c03-hero@2x.jpg?id=7e823734-e1e2-4676-bd8d-4e0887d1f3d4&width=1024&output_type=webp');
+    height: 1000px !important;
+    background-size: contain;
+}
+
+
+.slides-image-two {
+    background: url('https://fjord.dropboxstatic.com/warp/conversion/dropbox/dmep/assets/customer-success-stories/semi-permanent/semipermanent1_hero_b.png?id=311cb1d7-b5a5-4a01-8b7e-df63eb2c922c&width=1600&output_type=webp');
+    height: 1000px !important;
+    background-size: contain;
+}
+.special-option-one {
+    height: 1000px !important;
+    background: #007891;
+}
+.special-option-two {
+    height: 1000px !important;
+    background: #84dc19;
+    color: #1e1919;
+}
+
+.slides-link-two {
+    color: #1e1919;
+    text-decoration: underline;
+}
+
+.slides-link-two:hover {
+    text-decoration: underline dotted;
+}
+
+.slides-link {
+    color:  #f7f5f2;
+    text-decoration: underline;
+}
+
+.slides-link:hover {
+    text-decoration: underline dotted;
+
+}
+
+.slider .indicators .indicator-item.active {
+    background: blue;
+}
+
+.trusted-btn {
+    color: #1e1919;
+}
+
+.footer-icons {
+    margin: 10px;
+}
+
+.footer-icons:hover {
+    background: grey;
+    padding: 5px;
+}
